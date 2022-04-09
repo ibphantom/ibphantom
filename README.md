@@ -1,7 +1,7 @@
 ### Hi there 👋
-### 🔭 I’m currently working on SD-WAN, Converting from MGCP Cisco CUCM to Cloud PBX, and Creating efficient ACLs
-### 🌱 I’m currently learning Network and Linux
-### 🤔 I’m looking for help with using github properly
+🔭 I’m currently working on SD-WAN, Converting from MGCP Cisco CUCM to Cloud PBX, and Creating efficient ACLs
+🌱 I’m currently learning Network and Linux
+🤔 I’m looking for help with using github properly
 
 <!--
 **ibphantom/ibphantom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
