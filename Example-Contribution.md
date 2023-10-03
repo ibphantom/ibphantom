@@ -39,10 +39,10 @@
 ---
 <h1><p align="center">Table of contents</p></h1>
 
-<p align="center">
-<h3>---
+<h3><p align="center">
+---
 Welcome to the Wizarr Documentation
----<h3></p>
+---</p></h3>
 
 # Introduction
 
