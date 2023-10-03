@@ -64,7 +64,7 @@ Wizarr is a automatic user invitation system for Plex, Jellyfin and Emby. Create
 
 <p align="center">* [Installation] *
 </b>
-### Docker
+## Docker ##
 
 {% hint style="warning" %}
 Be sure to replace`/path/to/appdata/config` in the below examples with a valid host directory path. If this volume mount is not configured correctly, your Wizarr settings/data will not be persisted when the container is recreated (e.g., when updating the image or rebooting your machine).
