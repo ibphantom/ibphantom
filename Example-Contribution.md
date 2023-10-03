@@ -778,12 +778,10 @@ This means that to use this integration, you don't need to generate a Never expi
 
 <p align="center">[Discord]</p>
 
-Join our discord server
----
 # Discord
-
+Join our discord server
 <p align="center">
-{% embed url="https://discord.com/invite/wsSTsHGsqu" %}
+"https://discord.com/invite/wsSTsHGsqu"
 </p>
 
 <h3><p align="center">Contribute</p></h3>
