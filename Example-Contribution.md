@@ -65,9 +65,6 @@ Wizarr is a automatic user invitation system for Plex, Jellyfin and Emby. Create
 <p align="center">* [Installation](getting-started/installation.md)</p>
 <p align="center">* [Reverse Proxy](getting-started/reverse-proxy.md)</p>
 
-## Default Login
-<b>There is no default login, if your browser has not automatically redirected you to `/settings` then please do so manually by visiting `http://your-wizarr.local/settings` and proceed with account creation.</b>
-
 <h3><p align="center">💭 Using Wizarr</p></h3>
 
 <p align="center">* [Single-Sign-On (SSO)](using-wizarr/single-sign-on-sso.md)</p>
