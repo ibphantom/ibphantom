@@ -711,9 +711,9 @@ In order to make the invitation process available for non signed in users, make 
 {% endtabs %}
 
 </p>
-<p align="center">* [Requests Integration]# Requests Integration
+<h3><p align="center">Discord Integration</p></h3>
 
-### Setup
+### Discord
 
 Please use the ```ghcr.io/wizarrrr/wizarr:dev``` docker image to use these features.
 
@@ -777,9 +777,7 @@ This means that to use this integration, you don't need to generate a Never expi
 {% endhint %}
 </p>
 
-<h3><p align="center">⛑ Support</p></h3>
-
-# Discord
+# ⛑ Support
 Join our discord server
 <p align="center"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b5061df29d55a92d945_full_logo_blurple_RGB.svg" height="100"></p>
 <p align="center">https://discord.com/invite/wsSTsHGsqu</p>
