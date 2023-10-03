@@ -166,7 +166,7 @@ docker run -d ...
 4. On the following **Add Container** screen, make changes to the **Host Port** and **Host Path 1**(Appdata) as needed, as well as the environment variables.
 5. Click apply and access "Wizarr" at your `<ServerIP:HostPort>` in a web browser.
 </p>
-<p align="center">* [Reverse Proxy] *</p>
+
 # Reverse Proxy
 
 ## Nginx
