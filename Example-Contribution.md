@@ -42,7 +42,7 @@
 
   
 <h3><p align="center">💾 Getting-Started</p></h3>
-
+[Docker](#docker)
 [Unraid](#unraid)
 
 <h3><p align="center">💭 Using Wizarr</p></h3>
@@ -67,6 +67,7 @@
 
 <h1><p align="center">💾 Getting-Started</p></h1>
 ## Docker
+<a id="docker"></a>
 <h3><p align="center">* [Installation] *
   <p align="center">
 <img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo.png" height="200">
