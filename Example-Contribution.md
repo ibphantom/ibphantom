@@ -43,6 +43,9 @@
 <a id="docker"></a>
 <h3><p align="center">[Installation]
   <p align="center">
+<a id="unraid"></a>
+<h3><p align="center">[unRAID]
+  <p align="center">
 <p align="center">Docker<a class="heading-link" href="#docker"></p>
 <p align="center">Unraid<a class="heading-link" href="#unraid"></p>
 
