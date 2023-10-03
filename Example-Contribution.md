@@ -279,7 +279,7 @@ labels:
 
 For more information, please refer to the [Traefik documentation](https://doc.traefik.io/traefik/user-guides/docker-compose/basic-example/).
 
-## Caddy <p align="center"><img src="https://dqah5woojdp50.cloudfront.net/original/2X/5/5f2c1a30bf4aeec78ece52d64426ec606d9fee7d.png" height="100"></p>
+## Caddy <p align="center"><img src="https://dqah5woojdp50.cloudfront.net/original/2X/5/5f2c1a30bf4aeec78ece52d64426ec606d9fee7d.png" height="75"></p>
 
 {% tabs %}
 {% tab title="Subdomain" %}
