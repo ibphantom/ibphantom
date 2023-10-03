@@ -65,9 +65,9 @@ Welcome to the Wizarr Documentation
 
 <h3><p align="center">💾 Getting-Started</p></h3>
 
-<p align="center">* [Installation] *
+<h3><p align="center">* [Installation] *
 <br>
-__Docker__
+**Docker**</h3>
 
 {% hint style="warning" %}
 Be sure to replace`/path/to/appdata/config` in the below examples with a valid host directory path. If this volume mount is not configured correctly, your Wizarr settings/data will not be persisted when the container is recreated (e.g., when updating the image or rebooting your machine).
