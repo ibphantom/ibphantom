@@ -159,7 +159,6 @@ docker run -d ...
 
 <BR><BR>
 <p align="center"><img src="https://craftassets.unraid.net/uploads/logos/unraid-stacked-dark.svg" height="100"></p>
-<a id="unraid"></a>
 * [Unraid] *
 
 1. Ensure you have the **Community Applications** plugin installed.
