@@ -257,10 +257,7 @@ sudo ln -s /etc/nginx/sites-available/wizarr.example.com.conf /etc/nginx/sites-e
 {% endtab %}
 {% endtabs %}
 
-## Traefik (v2)
-
-<p align="center">
-<img src="https://www.suse.com/c/wp-content/uploads/2021/09/rancher_blog_traefik.logo_.png" height="75">
+## Traefik (v2) <p align="center"> <img src="https://www.suse.com/c/wp-content/uploads/2021/09/rancher_blog_traefik.logo_.png" height="75">
 
 Add the following labels to the wizarr service in your `docker-compose.yml` file:
 
