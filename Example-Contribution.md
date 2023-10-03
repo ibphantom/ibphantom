@@ -35,13 +35,9 @@
 <img alt="Github Build" src="https://img.shields.io/github/actions/workflow/status/wizarrrr/wizarr/docker-build.yml"/>
 </a>
 </p>
-
-
-
----
+--------
 <h1><p align="center">Table of contents
 <br>Welcome to the Wizarr Documentation</p></h1>
-<h1><p align="center">
 
   
 <h3><p align="center">💾 Getting-Started</p></h3>
