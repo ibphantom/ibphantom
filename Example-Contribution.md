@@ -37,12 +37,12 @@
 </p>
 
 ---
-<h3><p align="center">Table of contents</p></h3>
+<h1><p align="center">Table of contents</p></h1>
 
 <p align="center">
----
+<h3>---
 Welcome to the Wizarr Documentation
----
+---<h3></p>
 
 # Introduction
 
