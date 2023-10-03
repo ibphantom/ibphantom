@@ -460,9 +460,7 @@ This means that to use this integration, you don't need to generate a Never expi
 ---
 description: Join our discord server
 ---
-
 # Discord
-
 {% embed url="https://discord.com/invite/wsSTsHGsqu" %}
 </p>
 
