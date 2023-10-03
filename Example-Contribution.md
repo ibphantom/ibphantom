@@ -38,9 +38,9 @@
 
 ---
 
-<p align="center">Wizarr is a automatic user invitation system for Plex and Jellyfin.<p>
-<p align="center">Create a unique link and share it to a user and they will be invited to your Media Server after they complete there signup proccess!<p>
-<p align="center">They can even be guided to download the clients and read instructions on how to use your media software!<p>
+<p align="center">Wizarr is a automatic user invitation system for Plex and Jellyfin.</p>
+<p align="center">Create a unique link and share it to a user and they will be invited to your Media Server after they complete there signup proccess!</p>
+<p align="center">They can even be guided to download the clients and read instructions on how to use your media software!</p>
 
 ## Major Features Include
 
