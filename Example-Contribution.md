@@ -48,6 +48,7 @@ Welcome to the Wizarr Documentation
 <h3><p align="center">💾 Getting-Started</p></h3>
 <p align="center">Docker</p>
 <p align="center">Unraid</p>
+<a id="unraid"></a>
 <h3><p align="center">💭 Using Wizarr</p></h3>
 
 # Introduction
@@ -156,7 +157,7 @@ docker run -d ...
 {% endtab %}
 {% endtabs %}
 ## Unraid
-<a id="unraid"></a>
+[Link text](#unraid)
 <p align="center">
 <img src="https://craftassets.unraid.net/uploads/logos/unraid-stacked-dark.svg" height="100"></p>
 
