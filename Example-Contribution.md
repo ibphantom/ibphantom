@@ -36,9 +36,10 @@
 </a>
 </p>
 
+
+
 ---
 <h1><p align="center">Table of contents</p></h1>
-
 <h3><p align="center">
 ---
 Welcome to the Wizarr Documentation
@@ -46,7 +47,9 @@ Welcome to the Wizarr Documentation
 
 # Introduction
 
-Wizarr is a automatic user invitation system for Plex, Jellyfin and Emby. Create a unique link and share it to a user and they will automatically be invited to your media Server! They will even be guided to download the client and instructions on how to use your requests software!
+<p align="center">Wizarr is a automatic user invitation system for Plex, Jellyfin and Emby.</p>
+  <p align="center">Create a unique link and share it to a user and they will automatically be invited to your media Server!</p>
+    <p align="center">They will even be guided to download the client and instructions on how to use your requests software!</p>
 
 ### Features
 
