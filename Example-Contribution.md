@@ -44,7 +44,6 @@ Platforms
 [unRAID](#unraid-)
 Reverse Proxy
 [NGINX](#nginx-)
-[Traefik](#Traefik (v2))
 
 
 <h3><p align="center"><a class="heading-link" href="#-using-wizarr-1">💭 Using Wizarr</p></h3>
