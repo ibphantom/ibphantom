@@ -35,15 +35,13 @@
 <img alt="Github Build" src="https://img.shields.io/github/actions/workflow/status/wizarrrr/wizarr/docker-build.yml"/>
 </a>
 </p>
-
-<BR><BR>
+<BR>
 <h1><p align="center">Table of contents
 <br>Welcome to the Wizarr Documentation</p></h1>
 
-  
 <h3><p align="center">💾 Getting-Started</p></h3>
-*<p align="center">Docker<a class="heading-link" href="#-docker"></a></p>
-*<p align="center">Unraid<a class="heading-link" href="#-unraid"></a></p>
+<p align="center">Docker<a class="heading-link" href="#-docker"></a></p>
+<p align="center">Unraid<a class="heading-link" href="#-unraid"></a></p>
 
 <h3><p align="center"><a class="heading-link" href="#-using-wizarr-1">💭 Using Wizarr</p></h3>
 
