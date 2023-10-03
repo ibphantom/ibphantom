@@ -54,27 +54,27 @@
 - Discord Server Integration: Invite users to your Discord Server
 - Customizable: Add any Custom HTML 
 
-<p align="center">Table of contents</p>
+<h3><p align="center">Table of contents</p></h3>h3>
 
 <p align="center">[Introduction](README.md)</p>
 
-<p align="center">💾 Getting-Started</p>
+<h3><p align="center">💾 Getting-Started</p></h3>
 
 <p align="center">* [Installation](getting-started/installation.md)</p>
 <p align="center">* [Reverse Proxy](getting-started/reverse-proxy.md)</p>
 
-<p align="center">💭 Using Wizarr</p>
+<h3><p align="center">💭 Using Wizarr</p></h3>
 
 <p align="center">* [Single-Sign-On (SSO)](using-wizarr/single-sign-on-sso.md)</p>
 <p align="center">* [Custom HTML](using-wizarr/custom-html.md)</p>
 <p align="center">* [Requests Integration](using-wizarr/requests-integration.md)</p>
 <p align="center">* [Discord Integration](using-wizarr/discord-integration.md)</p>
 
-<p align="center">⛑ Support</p>
+<h3><p align="center">⛑ Support</p></h3>
 
 <p align="center">[Discord](support/discord.md)</p>
 
-<p align="center">Contribute</p>
+<h3><p align="center">Contribute</p></h3>
 
 <p align="center"> [Translate](contribute/translate.md)</p>
 <p align="center"> [Development](contribute/development.md)</p>
