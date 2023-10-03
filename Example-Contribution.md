@@ -55,7 +55,7 @@
     <p align="center">They will even be guided to download the client and instructions on how to use your requests software!</p>
 
 ### Features
-
+<p align="center">
 * Automatic Invitation to your Media Server (Plex, Jellyfin, Emby...)
 * Secured invitation environment
 * Plug and Play SSO Support\*
