@@ -169,6 +169,7 @@ docker run -d ...
 # Reverse Proxy
 
 ## Nginx
+<p align="center"><img src="https://www.svgrepo.com/show/373924/nginx.svg" height="100"></p>
 
 {% tabs %}
 {% tab title="SWAG" %}
@@ -278,6 +279,7 @@ labels:
 For more information, please refer to the [Traefik documentation](https://doc.traefik.io/traefik/user-guides/docker-compose/basic-example/).
 
 ## Caddy
+https://dqah5woojdp50.cloudfront.net/original/2X/5/5f2c1a30bf4aeec78ece52d64426ec606d9fee7d.png
 
 {% tabs %}
 {% tab title="Subdomain" %}
@@ -589,7 +591,7 @@ labels:
 
 For more information, please refer to the [Traefik documentation](https://doc.traefik.io/traefik/user-guides/docker-compose/basic-example/).
 
-## Caddy
+## Caddy <p align="center"><img src="https://dqah5woojdp50.cloudfront.net/original/2X/5/5f2c1a30bf4aeec78ece52d64426ec606d9fee7d.png" height="200"></p>
 
 {% tabs %}
 {% tab title="Subdomain" %}
