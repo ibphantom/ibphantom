@@ -41,7 +41,7 @@
 
 <h3><p align="center">💾 Getting-Started</p></h3>
 <p align="center">Docker<a class="heading-link" href="#docker"></p>
-<p align="center">Unraid<a class="heading-link" href="#-unraid"></p>
+<p align="center">Unraid<a class="heading-link" href="#unraid"></p>
 
 <h3><p align="center"><a class="heading-link" href="#-using-wizarr-1">💭 Using Wizarr</p></h3>
 
@@ -153,7 +153,7 @@ docker run -d ...
 {% endtabs %}
 
 <BR><BR>
-<a class="heading-link" href="#-unraid">
+### unRAID
 <p align="center"><img src="https://craftassets.unraid.net/uploads/logos/unraid-stacked-dark.svg" height="100"></p>
 
 1. Ensure you have the **Community Applications** plugin installed.
