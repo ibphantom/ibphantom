@@ -40,7 +40,7 @@
 <h3><p align="center">Table of contents</p></h3>
 
 <p align="center">
-  ---
+---
 Welcome to the Wizarr Documentation
 ---
 
@@ -63,8 +63,6 @@ Wizarr is a automatic user invitation system for Plex, Jellyfin and Emby. Create
 <h3><p align="center">💾 Getting-Started</p></h3>
 
 <p align="center">* [Installation]
-  # Installation
-
 ### Docker
 
 {% hint style="warning" %}
