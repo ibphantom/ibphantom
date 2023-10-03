@@ -55,7 +55,7 @@
     <p align="center">They will even be guided to download the client and instructions on how to use your requests software!</p>
 
 ### Features
-<p align="center">
+
 * Automatic Invitation to your Media Server (Plex, Jellyfin, Emby...)
 * Secured invitation environment
 * Plug and Play SSO Support\*
@@ -64,7 +64,7 @@
 * Guide user on how to download Plex client
 * Requests Integration: Guide users on how to request Movie (Jellyseerr, Overseerr & Ombi)
 * Discord Server Integration: Invite users to your Discord Server
-* Customizable: Add any Custom HTML</p>
+* Customizable: Add any Custom HTML
 
 <h1><p align="center">💾 Getting-Started</p></h1>
 <a id="docker"></a>
@@ -154,6 +154,7 @@ docker run -d ...
 {% endtab %}
 {% endtabs %}
 
+<BR><BR>
 <p align="center"><img src="https://craftassets.unraid.net/uploads/logos/unraid-stacked-dark.svg" height="100"></p>
 <a id="unraid"></a>
 
