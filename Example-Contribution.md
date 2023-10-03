@@ -635,7 +635,7 @@ plex.example.com {
 {% endtab %}
 {% endtabs %}</p>
 
-<h3><p align="center">💭 Using Wizarr</p></h3>
+<h3><p align="center" class="heading-link" href="#-using-wizarr">💭 Using Wizarr</p></h3>
 
 <p align="center">* [Single-Sign-On (SSO)]
   # Single-Sign-On (SSO)
