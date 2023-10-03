@@ -67,7 +67,6 @@
 * Customizable: Add any Custom HTML</p>
 
 <h1><p align="center">💾 Getting-Started</p></h1>
-## Docker
 <a id="docker"></a>
 <h3><p align="center">* [Installation] *
   <p align="center">
