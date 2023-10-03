@@ -40,7 +40,7 @@
 <br>Welcome to the Wizarr Documentation</p></h1>
 
 <h3><p align="center">💾 Getting-Started</p></h3>
-<p align="center">Docker<a class="heading-link" href="#-docker"></a></p>
+<p align="center">Docker<a class="heading-link" href="#docker"></a></p>
 <p align="center">Unraid<a class="heading-link" href="#-unraid"></a></p>
 
 <h3><p align="center"><a class="heading-link" href="#-using-wizarr-1">💭 Using Wizarr</p></h3>
@@ -65,11 +65,10 @@
 
 <h1><p align="center">💾 Getting-Started</p></h1>
 <a id="docker"></a>
-<h3><p align="center">* [Installation] *
+<h3><p align="center">[Installation]
   <p align="center">
 
 ### Docker
-<a class="heading-link" href="#-docker"></a>
 <p align="center"><img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo.png" height="200"></p>
 
 {% hint style="warning" %}
