@@ -43,7 +43,7 @@
   
 <h3><p align="center">💾 Getting-Started</p></h3>
 
-<h4><p align="center">Docker</p></h4><a class="heading-link" href="#-docker">
+<h4><p align="center">Docker</p></h4><a class="heading-link" href="#-docker"><BR>
 <h4><p align="center">Unraid</p></h4><a class="heading-link" href="#-unraid">
 
 <h3><p align="center"><a class="heading-link" href="#-using-wizarr-1">💭 Using Wizarr</p></h3>
