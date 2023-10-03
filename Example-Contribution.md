@@ -39,10 +39,8 @@
 <BR>
 
 <h3><p align="center">Table of Contents</p></h3>
-Platforms
 [Docker](#docker-)
 [unRAID](#unraid-)
-Reverse Proxy
 [NGINX](#nginx-)
 
 
