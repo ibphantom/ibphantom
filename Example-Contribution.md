@@ -40,8 +40,8 @@
 <br>Welcome to the Wizarr Documentation</p></h1>
 
 <h3><p align="center">💾 Getting-Started</p></h3>
-<p align="center">Docker<a class="heading-link" href="#docker"></a></p>
-<p align="center">Unraid<a class="heading-link" href="#-unraid"></a></p>
+<p align="center">Docker<a class="heading-link" href="#docker"></p>
+<p align="center">Unraid<a class="heading-link" href="#-unraid"></p>
 
 <h3><p align="center"><a class="heading-link" href="#-using-wizarr-1">💭 Using Wizarr</p></h3>
 
