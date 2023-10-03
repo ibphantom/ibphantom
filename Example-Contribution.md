@@ -376,9 +376,7 @@ Please use the ```ghcr.io/wizarrrr/wizarr:dev``` docker image to use these featu
 ### Usage
 
 Now when a user is invited to your media server, they will be automatically added to your request software. They will also be guided on how to request Movies and TV Shows. When a user expires or is deleted from Wizarr, they will also be removed from your request software.
-</p>
-<p align="center">* [Discord Integration]
-# Discord Integration
+
 
 #### Find your Discord Server ID
 
@@ -396,7 +394,7 @@ Wizarr supports using either the standard Discord widget, or a custom widget uti
 
 <figure><img src="../.gitbook/assets/default-widget.png" alt=""><figcaption><p>Standard Discord Widget</p></figcaption></figure>
 
-
+<br>
 **Why not use an invitation link?**
 
 Enabling the widget and the invite channel makes the Discord API dynamically generate an invitation link for the purpose of the widget.
