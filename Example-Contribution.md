@@ -85,8 +85,7 @@ Wizarr is a automatic user invitation system for Plex, Jellyfin and Emby. Create
 <p align="center"> [Development](contribute/development.md)</p>
 
 ## Default Login
-
-There is no default login, if your browser has not automatically redirected you to `/settings` then please do so manually by visiting `http://your-wizarr.local/settings` and proceed with account creation.
+__There is no default login, if your browser has not automatically redirected you to `/settings` then please do so manually by visiting `http://your-wizarr.local/settings` and proceed with account creation.__
 
 
 
