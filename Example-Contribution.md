@@ -156,7 +156,7 @@ docker run -d ...
 {% endtabs %}
 
 <BR><BR>
-<a class="heading-link" href="#-unraid">
+<a class="heading-link" href="#unraid">
 <p align="center"><img src="https://craftassets.unraid.net/uploads/logos/unraid-stacked-dark.svg" height="100"></p>
 
 1. Ensure you have the **Community Applications** plugin installed.
