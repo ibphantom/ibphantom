@@ -38,10 +38,9 @@
 
 ---
 
-Wizarr is a automatic user invitation system for Plex and Jellyfin. Create a unique link and share it to a user and they will be invited to your Media Server after they complete there signup proccess! They can even be guided to download the clients and read instructions on how to use your media software!
-
-## Wizarr V3 Beta
-If you would like to participate in the beta for version 3, please join our [Discord](https://discord.gg/XXCz7aM3ak) and setup the beta version of Wizarr. You can find the beta repository [here](https://github.com/Wizarrrr/wizarr/tree/v3-beta).
+<center>Wizarr is a automatic user invitation system for Plex and Jellyfin.</center>
+<center>Create a unique link and share it to a user and they will be invited to your Media Server after they complete there signup proccess!</center>
+<center>They can even be guided to download the clients and read instructions on how to use your media software!</center>
 
 ## Major Features Include
 
@@ -55,6 +54,30 @@ If you would like to participate in the beta for version 3, please join our [Dis
 - Discord Server Integration: Invite users to your Discord Server
 - Customizable: Add any Custom HTML 
 
+# Table of contents
+
+* [Introduction](README.md)
+
+## 💾 Getting-Started
+
+* [Installation](getting-started/installation.md)
+* [Reverse Proxy](getting-started/reverse-proxy.md)
+
+## 💭 Using Wizarr
+
+* [Single-Sign-On (SSO)](using-wizarr/single-sign-on-sso.md)
+* [Custom HTML](using-wizarr/custom-html.md)
+* [Requests Integration](using-wizarr/requests-integration.md)
+* [Discord Integration](using-wizarr/discord-integration.md)
+
+## ⛑ Support
+
+* [Discord](support/discord.md)
+
+## Contribute
+
+* [Translate](contribute/translate.md)
+* [Development](contribute/development.md)
 
 
 ## Getting Started
