@@ -69,6 +69,7 @@
   <p align="center">
 
 ### Docker
+---
 <p align="center"><img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo.png" height="200"></p>
 
 {% hint style="warning" %}
@@ -151,9 +152,11 @@ docker run -d ...
 ```
 {% endtab %}
 {% endtabs %}
----
+
+
 <BR><BR>
 ### unRAID
+---
 <p align="center"><img src="https://craftassets.unraid.net/uploads/logos/unraid-stacked-dark.svg" height="100"></p>
 
 1. Ensure you have the **Community Applications** plugin installed.
