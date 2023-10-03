@@ -54,30 +54,30 @@
 - Discord Server Integration: Invite users to your Discord Server
 - Customizable: Add any Custom HTML 
 
-<p align="center"># Table of contents</p>
+<p align="center">Table of contents</p>
 
-<p align="center">* [Introduction](README.md)</p>
+<p align="center">[Introduction](README.md)</p>
 
-<p align="center">## 💾 Getting-Started</p>
+<p align="center">💾 Getting-Started</p>
 
 <p align="center">* [Installation](getting-started/installation.md)</p>
 <p align="center">* [Reverse Proxy](getting-started/reverse-proxy.md)</p>
 
-<p align="center">## 💭 Using Wizarr</p>
+<p align="center">💭 Using Wizarr</p>
 
 <p align="center">* [Single-Sign-On (SSO)](using-wizarr/single-sign-on-sso.md)</p>
 <p align="center">* [Custom HTML](using-wizarr/custom-html.md)</p>
 <p align="center">* [Requests Integration](using-wizarr/requests-integration.md)</p>
 <p align="center">* [Discord Integration](using-wizarr/discord-integration.md)</p>
 
-<p align="center">## ⛑ Support</p>
+<p align="center">⛑ Support</p>
 
-<p align="center">* [Discord](support/discord.md)</p>
+<p align="center">[Discord](support/discord.md)</p>
 
-<p align="center">## Contribute</p>
+<p align="center">Contribute</p>
 
-<p align="center">* [Translate](contribute/translate.md)</p>
-<p align="center">* [Development](contribute/development.md)</p>
+<p align="center"> [Translate](contribute/translate.md)</p>
+<p align="center"> [Development](contribute/development.md)</p>
 
 
 ## Getting Started
