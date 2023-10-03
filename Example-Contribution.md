@@ -642,6 +642,7 @@ plex.example.com {
   # Single-Sign-On (SSO)
 
 #### **Wizarr supports SSO via disabling its inbuilt authentication**
+<p align="center"><img src="https://www.mindcentric.com/hubfs/SingleSignOn.png" height="100"></p>
 
 To Disable Wizarr's inbuilt authentication in order to put it behind a Proxy Provider (Authelia, Authentik...), set the following variable:
 
@@ -713,8 +714,8 @@ In order to make the invitation process available for non signed in users, make 
 </p>
 
 ### Discord
-<h3><p align="center">Discord Integration</p></h3>
 <p align="center"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b5061df29d55a92d945_full_logo_blurple_RGB.svg" height="100"></p>
+<h3><p align="center">Discord Integration</p></h3>
 
 Please use the ```ghcr.io/wizarrrr/wizarr:dev``` docker image to use these features.
 
