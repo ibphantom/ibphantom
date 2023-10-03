@@ -40,10 +40,10 @@
 
 ---
 <h1><p align="center">Table of contents</p></h1>
-<h3><p align="center">
+<h1><p align="center">
 ---
 Welcome to the Wizarr Documentation
----</p></h3>
+---</p></h1>
 
 # Introduction
 
@@ -63,7 +63,7 @@ Welcome to the Wizarr Documentation
 * Discord Server Integration: Invite users to your Discord Server
 * Customizable: Add any Custom HTML</p>
 
-<h3><p align="center">💾 Getting-Started</p></h3>
+<h1><p align="center">💾 Getting-Started</p></h1>
 
 <h3><p align="center">* [Installation] *
 <br>
