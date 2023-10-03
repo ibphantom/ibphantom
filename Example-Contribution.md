@@ -62,7 +62,8 @@ Wizarr is a automatic user invitation system for Plex, Jellyfin and Emby. Create
 
 <h3><p align="center">💾 Getting-Started</p></h3>
 
-<p align="center">* [Installation]
+<p align="center">* [Installation] *
+</b>
 ### Docker
 
 {% hint style="warning" %}
