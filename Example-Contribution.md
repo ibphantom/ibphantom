@@ -151,8 +151,7 @@ docker run -d ...
 {% endtabs %}
 
 <p align="center">
-<img src="https://github.com/Wizarrrr/wizarr/blob/master/screenshots/wizard.png?raw=true" height="200"></p>
-  <p>## Unraid</p>https://craftassets.unraid.net/uploads/logos/unraid-stacked-dark.svg</p>
+<img src="https://craftassets.unraid.net/uploads/logos/unraid-stacked-dark.svg" height="100"></p>
 
 1. Ensure you have the **Community Applications** plugin installed.
 2. Inside the **Community Applications** app store, search for **Wizarr**.
