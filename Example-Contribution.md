@@ -47,7 +47,7 @@ Welcome to the Wizarr Documentation
 
 <h3><p align="center">💾 Getting-Started</p></h3>
 
-[Unraid](#unraid)
+<p align="center">[Unraid](#unraid)</p>
 
 <h3><p align="center">💭 Using Wizarr</p></h3>
 
