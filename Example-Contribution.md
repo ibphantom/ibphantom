@@ -316,8 +316,78 @@ plex.example.com {
 
 <h3><p align="center">💭 Using Wizarr</p></h3>
 
-<p align="center">* [Single-Sign-On (SSO)](using-wizarr/single-sign-on-sso.md)</p>
-<p align="center">* [Custom HTML](using-wizarr/custom-html.md)</p>
+<p align="center">* [Single-Sign-On (SSO)]
+  # Single-Sign-On (SSO)
+
+#### **Wizarr supports SSO via disabling its inbuilt authentication**
+
+To Disable Wizarr's inbuilt authentication in order to put it behind a Proxy Provider (Authelia, Authentik...), set the following variable:
+
+`DISABLE_BUILTIN_AUTH=True`
+
+#### Whitelist Public Paths (important!)
+
+In order to make the invitation process available for non signed in users, make sure you whitelist the following paths:
+
+{% tabs %}
+{% tab title="Authelia" %}
+```
+    - domain: wizarr.domain.com
+      resources:
+        - '^/j/'
+        - '^/join/'
+        - '^/setup/*'
+        - '^/static/'
+      policy: bypass
+```
+{% endtab %}
+
+{% tab title="Authentik/Other" %}
+```
+- '^/j/'
+- '^/join/'
+- '^/setup/*'
+- '^/static/'
+```
+{% endtab %}
+{% endtabs %}
+</p>
+<p align="center">* [Custom HTML]
+# Single-Sign-On (SSO)
+
+#### **Wizarr supports SSO via disabling its inbuilt authentication**
+
+To Disable Wizarr's inbuilt authentication in order to put it behind a Proxy Provider (Authelia, Authentik...), set the following variable:
+
+`DISABLE_BUILTIN_AUTH=True`
+
+#### Whitelist Public Paths (important!)
+
+In order to make the invitation process available for non signed in users, make sure you whitelist the following paths:
+
+{% tabs %}
+{% tab title="Authelia" %}
+```
+    - domain: wizarr.domain.com
+      resources:
+        - '^/j/'
+        - '^/join/'
+        - '^/setup/*'
+        - '^/static/'
+      policy: bypass
+```
+{% endtab %}
+
+{% tab title="Authentik/Other" %}
+```
+- '^/j/'
+- '^/join/'
+- '^/setup/*'
+- '^/static/'
+```
+{% endtab %}
+{% endtabs %}
+</p>
 <p align="center">* [Requests Integration](using-wizarr/requests-integration.md)</p>
 <p align="center">* [Discord Integration](using-wizarr/discord-integration.md)</p>
 
