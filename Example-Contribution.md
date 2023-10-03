@@ -45,7 +45,7 @@
 
 <h4><p align="center">Docker</p></h4><h4><p align="center">Unraid</p></h4>
 
-<h3><p align="center" class="heading-link" href="#-using-wizarr-1">💭 Using Wizarr</p></h3>
+<h3><p align="center"><a class="heading-link" href="#-using-wizarr-1">💭 Using Wizarr</p></h3>
 
 # Introduction
 
