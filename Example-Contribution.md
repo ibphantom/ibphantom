@@ -40,7 +40,9 @@
 <br>Welcome to the Wizarr Documentation</p></h1>
 
 <h3><p align="center">💾 Getting-Started</p></h3>
-<p align="center">Install<a class="heading-link" href="#installation--"></p>
+<a id="docker"></a>
+<h3><p align="center">[Installation]
+  <p align="center">
 <p align="center">Docker<a class="heading-link" href="#docker"></p>
 <p align="center">Unraid<a class="heading-link" href="#unraid"></p>
 
