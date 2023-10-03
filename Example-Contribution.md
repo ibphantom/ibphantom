@@ -66,7 +66,8 @@
 * Discord Server Integration: Invite users to your Discord Server
 * Customizable: Add any Custom HTML
 
-<h1><p align="center">💾 Getting-Started</p></h1>
+# 💾 Getting-Started
+
 ### Docker
 ---
 <p align="center"><img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo.png" height="200"></p>
