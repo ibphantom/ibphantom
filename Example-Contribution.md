@@ -151,9 +151,6 @@ Finally, run the container with the same parameters originally used to create th
 ```bash
 docker run -d ...
 ```
-{% endtab %}
-{% endtabs %}
-
 
 <BR>
 ### unRAID <p align="center"><img src="https://craftassets.unraid.net/uploads/logos/unraid-stacked-dark.svg" height="100"></p>
@@ -174,7 +171,6 @@ docker run -d ...
 ---
 <p align="center"><img src="https://www.svgrepo.com/show/373924/nginx.svg" height="100"></p>
 
-{% tab title="SWAG" %}
 Create a new file `wizarr.subdomain.conf` in `proxy-confs` with the following configuration:
 
 ```nginx
@@ -200,7 +196,6 @@ server {
 }
 ```
 
-{% tab title="Nginx Proxy Manager" %}
 Add a new proxy host with the following settings:
 
 #### Details
@@ -217,9 +212,8 @@ Add a new proxy host with the following settings:
 * **SSL Certificate:** Select one of the options; if you are not sure, pick “Request a new SSL Certificate”
 * **Force SSL:** yes
 * **HTTP/2 Support:** yes
-{% endtab %}
 
-{% tab title="Subdomain" %}
+
 Add the following configuration to a new file `/etc/nginx/sites-available/wizarr.example.com.conf`:
 
 ```nginx
@@ -280,8 +274,6 @@ For more information, please refer to the [Traefik documentation](https://doc.tr
 
 ## Caddy <p align="center"><img src="https://dqah5woojdp50.cloudfront.net/original/2X/5/5f2c1a30bf4aeec78ece52d64426ec606d9fee7d.png" height="75"></p>
 
-{% tabs %}
-{% tab title="Subdomain" %}
 Add the following site block to your Caddyfile:
 
 ```
@@ -289,9 +281,6 @@ wizarr.example.com {
     reverse_proxy http://127.0.0.1:5690
 }
 ```
-{% endtab %}
-
-{% tab title="Path" %}
 You need the [response replacement](https://github.com/caddyserver/replace-response) module to use this config.
 
 Add the following site block to your Caddyfile:
@@ -403,11 +392,8 @@ Now when a user is invited to your media server, they will be automatically adde
 
 Wizarr supports using either the standard Discord widget, or a custom widget utilizing the Discord API. The custom widget is enabled by default, and provides a more integrated look and feel, however if this is not desired you can toggle the standard widget on in Wizarr's settings.
 
-{% tab title="Custom Widget" %}
 <figure><img src="../.gitbook/assets/custom-widget.png" alt=""><figcaption><p>Custom Discord Widget</p></figcaption></figure>
 
-
-{% tab title="Standard Widget" %}
 <figure><img src="../.gitbook/assets/default-widget.png" alt=""><figcaption><p>Standard Discord Widget</p></figcaption></figure>
 
 
