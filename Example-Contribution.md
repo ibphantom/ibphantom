@@ -156,7 +156,7 @@ docker run -d ...
 
 <BR><BR>
 <p align="center"><img src="https://craftassets.unraid.net/uploads/logos/unraid-stacked-dark.svg" height="100"></p>
-* [Unraid] *
+<p align="center">* [Unraid] *</p>
 
 1. Ensure you have the **Community Applications** plugin installed.
 2. Inside the **Community Applications** app store, search for **Wizarr**.
