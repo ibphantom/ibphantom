@@ -66,6 +66,8 @@ Welcome to the Wizarr Documentation
 <h1><p align="center">💾 Getting-Started</p></h1>
 
 <h3><p align="center">* [Installation] *
+  <p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/GitHub_logo_2013.svg/2560px-GitHub_logo_2013.svg.png" height="200">
 <br>
 **Docker**</h3>
 
