@@ -42,7 +42,7 @@
 <p align="center">Create a unique link and share it to a user and they will be invited to your Media Server after they complete there signup proccess!</p>
 <p align="center">They can even be guided to download the clients and read instructions on how to use your media software!</p>
 
-## Major Features Include
+<p align="center">## Major Features Include</p>
 
 - Automatic Invitation to your Media Server (Plex, Jellyfin, Emby...)
 - Secured invitation environment
@@ -54,30 +54,30 @@
 - Discord Server Integration: Invite users to your Discord Server
 - Customizable: Add any Custom HTML 
 
-# Table of contents
+<p align="center"># Table of contents</p>
 
-* [Introduction](README.md)
+<p align="center">* [Introduction](README.md)</p>
 
-## 💾 Getting-Started
+<p align="center">## 💾 Getting-Started</p>
 
-* [Installation](getting-started/installation.md)
-* [Reverse Proxy](getting-started/reverse-proxy.md)
+<p align="center">* [Installation](getting-started/installation.md)</p>
+<p align="center">* [Reverse Proxy](getting-started/reverse-proxy.md)</p>
 
-## 💭 Using Wizarr
+<p align="center">## 💭 Using Wizarr</p>
 
-* [Single-Sign-On (SSO)](using-wizarr/single-sign-on-sso.md)
-* [Custom HTML](using-wizarr/custom-html.md)
-* [Requests Integration](using-wizarr/requests-integration.md)
-* [Discord Integration](using-wizarr/discord-integration.md)
+<p align="center">* [Single-Sign-On (SSO)](using-wizarr/single-sign-on-sso.md)</p>
+<p align="center">* [Custom HTML](using-wizarr/custom-html.md)</p>
+<p align="center">* [Requests Integration](using-wizarr/requests-integration.md)</p>
+<p align="center">* [Discord Integration](using-wizarr/discord-integration.md)</p>
 
-## ⛑ Support
+<p align="center">## ⛑ Support</p>
 
-* [Discord](support/discord.md)
+<p align="center">* [Discord](support/discord.md)</p>
 
-## Contribute
+<p align="center">## Contribute</p>
 
-* [Translate](contribute/translate.md)
-* [Development](contribute/development.md)
+<p align="center">* [Translate](contribute/translate.md)</p>
+<p align="center">* [Development](contribute/development.md)</p>
 
 
 ## Getting Started
