@@ -1,4 +1,5 @@
-<h1 align="center">Wizarr</h1>
+<h1 align="center">Wizarr
+<BR>Welcome to the Wizarr Documentation</h1>
 <h3 align="center">The Free Media Invitation System</h3>
 
 ---
@@ -37,7 +38,7 @@
 </p>
 
 <BR>
-<h1><p align="center">Welcome to the Wizarr Documentation</p></h1>
+
 <h3><p align="center">Table of Contents</p></h3>
 
 
