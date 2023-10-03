@@ -46,8 +46,9 @@ Welcome to the Wizarr Documentation
 ---</p></h1>
 
 <h3><p align="center">💾 Getting-Started</p></h3>
-[Docker](#docker)
-## Unraid
+Docker
+Unraid
+[Line 162](Example-Contribution.md#L162)
 <h3><p align="center">💭 Using Wizarr</p></h3>
 
 # Introduction
@@ -495,4 +496,4 @@ A big thank you ❤️ to these amazing people for contributing to this project!
   <img src="https://contrib.rocks/image?repo=wizarrrr/wizarr" />
 </a>
 
-[Conclusion](#conclusion)
+<p align="center">[Conclusion](#conclusion)</p>
