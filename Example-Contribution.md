@@ -54,7 +54,7 @@
 - Discord Server Integration: Invite users to your Discord Server
 - Customizable: Add any Custom HTML 
 
-<h3><p align="center">Table of contents</p></h3>h3>
+<h3><p align="center">Table of contents</p></h3>
 
 <p align="center">[Introduction](README.md)</p>
 
