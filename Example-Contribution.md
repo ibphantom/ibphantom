@@ -42,8 +42,8 @@
 
   
 <h3><p align="center">💾 Getting-Started</p></h3>
-<h4><p align="center">Docker</p></h4>
-<h4><p align="center">Unraid</p></h4>
+
+<h4><p align="center">Docker</p></h4><BR><h4><p align="center">Unraid</p></h4>
 
 <h3><p align="center">💭 Using Wizarr</p></h3>
 
@@ -155,8 +155,8 @@ docker run -d ...
 {% endtabs %}
 
 <BR><BR>
-<p align="center"><img src="https://craftassets.unraid.net/uploads/logos/unraid-stacked-dark.svg" height="100"></p>
 <p align="center">* [Unraid] *</p>
+<p align="center"><img src="https://craftassets.unraid.net/uploads/logos/unraid-stacked-dark.svg" height="100"></p>
 
 1. Ensure you have the **Community Applications** plugin installed.
 2. Inside the **Community Applications** app store, search for **Wizarr**.
