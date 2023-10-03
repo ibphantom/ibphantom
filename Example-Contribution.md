@@ -261,7 +261,7 @@ sudo ln -s /etc/nginx/sites-available/wizarr.example.com.conf /etc/nginx/sites-e
 {% endtab %}
 {% endtabs %}
 
-## Traefik (v2) <p align="center"> <img src="https://www.suse.com/c/wp-content/uploads/2021/09/rancher_blog_traefik.logo_.png" height="75">
+## Traefik (v2) <p align="center"> <img src="https://www.suse.com/c/wp-content/uploads/2021/09/rancher_blog_traefik.logo_.png" height="125">
 
 Add the following labels to the wizarr service in your `docker-compose.yml` file:
 
@@ -279,7 +279,7 @@ labels:
 
 For more information, please refer to the [Traefik documentation](https://doc.traefik.io/traefik/user-guides/docker-compose/basic-example/).
 
-## Caddy <p align="center"><img src="https://dqah5woojdp50.cloudfront.net/original/2X/5/5f2c1a30bf4aeec78ece52d64426ec606d9fee7d.png" height="200"></p>
+## Caddy <p align="center"><img src="https://dqah5woojdp50.cloudfront.net/original/2X/5/5f2c1a30bf4aeec78ece52d64426ec606d9fee7d.png" height="100"></p>
 
 {% tabs %}
 {% tab title="Subdomain" %}
