@@ -39,12 +39,11 @@
 
 
 ---
-<h1><p align="center">Table of contents</p></h1>
+<h1><p align="center">Table of contents
+<br>Welcome to the Wizarr Documentation</p></h1>
 <h1><p align="center">
----
-Welcome to the Wizarr Documentation
----</p></h1>
 
+  
 <h3><p align="center">💾 Getting-Started</p></h3>
 
 [Unraid](#unraid)
