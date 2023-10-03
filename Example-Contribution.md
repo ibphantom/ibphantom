@@ -46,7 +46,7 @@ Welcome to the Wizarr Documentation
 ---</p></h1>
 
 <h3><p align="center">💾 Getting-Started</p></h3>
-[Docker](target#50)
+[Docker](#Docker)
 ## Unraid
 <h3><p align="center">💭 Using Wizarr</p></h3>
 
