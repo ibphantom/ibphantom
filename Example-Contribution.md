@@ -43,9 +43,6 @@
 <a id="docker"></a>
 <h3><p align="center">[Installation]
   <p align="center">
-<a id="unraid"></a>
-<h3><p align="center">unRAID
-  <p align="center">
 <p align="center">Docker<a class="heading-link" href="#docker"></p>
 <p align="center">Unraid<a class="heading-link" href="#unraid"></p>
 
@@ -70,10 +67,6 @@
 * Customizable: Add any Custom HTML
 
 <h1><p align="center">💾 Getting-Started</p></h1>
-<a id="docker"></a>
-<h3><p align="center">[Installation]
-  <p align="center">
-
 ### Docker
 ---
 <p align="center"><img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo.png" height="200"></p>
@@ -172,6 +165,9 @@ docker run -d ...
 5. Click apply and access "Wizarr" at your `<ServerIP:HostPort>` in a web browser.
 </p>
 
+
+
+<BR><BR><BR>
 # Reverse Proxy
 
 ## Nginx
