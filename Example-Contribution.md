@@ -38,8 +38,8 @@
 
 <BR>
 <h1><p align="center">Welcome to the Wizarr Documentation</p></h1>
-
 <h3><p align="center">Table of Contents</p></h3>
+------------------------
 
 <h3><p align="center">💾 Getting-Started</p></h3>
 <a id="docker"></a>
