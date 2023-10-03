@@ -40,12 +40,12 @@
 
 ---
 <h1><p align="center">Table of contents</p></h1>
-<h3><p align="center">💾 Getting-Started</p></h3>
-<h3><p align="center">💭 Using Wizarr</p></h3>
 <h1><p align="center">
 ---
 Welcome to the Wizarr Documentation
 ---</p></h1>
+<h3><p align="center">💾 Getting-Started</p></h3>
+<h3><p align="center">💭 Using Wizarr</p></h3>
 
 # Introduction
 
