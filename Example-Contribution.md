@@ -41,7 +41,7 @@
 
 <p align="center">
   ---
-description: Welcome to the Wizarr Documentation
+Welcome to the Wizarr Documentation
 ---
 
 # Introduction
