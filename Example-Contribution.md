@@ -45,7 +45,7 @@
 
 <h4><p align="center">Docker</p></h4><<h4><p align="center">Unraid</p></h4>
 
-<h3><p align="center">💭 Using Wizarr(https://github.com/ibphantom/ibphantom/blob/main/Example-Contribution.md#-using-wizarr-1)</p></h3>
+<h3><p align="center">💭 Using Wizarr</p>(https://github.com/ibphantom/ibphantom/blob/main/Example-Contribution.md#-using-wizarr-1)</h3>
 
 # Introduction
 
