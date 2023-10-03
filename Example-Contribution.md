@@ -776,13 +776,10 @@ This means that to use this integration, you don't need to generate a Never expi
 
 <h3><p align="center">⛑ Support</p></h3>
 
-<p align="center">[Discord]</p>
-
 # Discord
 Join our discord server
-<p align="center">
-"https://discord.com/invite/wsSTsHGsqu"
-</p>
+<p align="center"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b5061df29d55a92d945_full_logo_blurple_RGB.svg" height="100"></p>
+<p align="center">https://discord.com/invite/wsSTsHGsqu</p>
 
 <h3><p align="center">Contribute</p></h3>
 
