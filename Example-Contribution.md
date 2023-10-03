@@ -326,7 +326,7 @@ plex.example.com {
 {% endtab %}
 {% endtabs %}</p>
 
-<h3><p align="center" class="heading-link" href="#-using-wizarr-1">💭 Using Wizarr</p></h3>
+<h1><p align="center" class="heading-link" href="#-using-wizarr-1">💭 Using Wizarr</p></h1>
 
 #### **Wizarr supports SSO via disabling its inbuilt authentication**
 <p align="center"><img src="https://www.mindcentric.com/hubfs/SingleSignOn.png" height="100"></p>
@@ -361,43 +361,6 @@ In order to make the invitation process available for non signed in users, make 
 ```
 {% endtab %}
 {% endtabs %}
-</p>
-<p align="center">* [Custom HTML]
-# Single-Sign-On (SSO)
-
-#### **Wizarr supports SSO via disabling its inbuilt authentication**
-
-To Disable Wizarr's inbuilt authentication in order to put it behind a Proxy Provider (Authelia, Authentik...), set the following variable:
-
-`DISABLE_BUILTIN_AUTH=True`
-
-#### Whitelist Public Paths (important!)
-
-In order to make the invitation process available for non signed in users, make sure you whitelist the following paths:
-
-{% tabs %}
-{% tab title="Authelia" %}
-```
-    - domain: wizarr.domain.com
-      resources:
-        - '^/j/'
-        - '^/join/'
-        - '^/setup/*'
-        - '^/static/'
-      policy: bypass
-```
-{% endtab %}
-
-{% tab title="Authentik/Other" %}
-```
-- '^/j/'
-- '^/join/'
-- '^/setup/*'
-- '^/static/'
-```
-{% endtab %}
-{% endtabs %}
-
 </p>
 
 ### Discord
