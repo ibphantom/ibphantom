@@ -77,13 +77,10 @@
 
 ### Docker <p align="center"><img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo.png" height="150"></p>
 
-{% hint style="warning" %}
 Be sure to replace`/path/to/appdata/config` in the below examples with a valid host directory path. If this volume mount is not configured correctly, your Wizarr settings/data will not be persisted when the container is recreated (e.g., when updating the image or rebooting your machine).
 
 The `TZ` environment variable value should also be set to the [TZ database name](https://en.wikipedia.org/wiki/List\_of\_tz\_database\_time\_zones) of your time zone!
-{% endhint %}
 
-{% tabs %}
 {% tab title="Docker Compose (recommended)" %}
 
 
@@ -120,7 +117,6 @@ Pull the latest image:
 Then, restart all services defined in the Compose file:
 
 `docker compose up -d` or `docker-compose up -d`
-{% endtab %}
 
 {% tab title="Docker CLI" %}
 **Installation**
@@ -178,7 +174,6 @@ docker run -d ...
 ---
 <p align="center"><img src="https://www.svgrepo.com/show/373924/nginx.svg" height="100"></p>
 
-{% tabs %}
 {% tab title="SWAG" %}
 Create a new file `wizarr.subdomain.conf` in `proxy-confs` with the following configuration:
 
@@ -204,7 +199,6 @@ server {
 
 }
 ```
-{% endtab %}
 
 {% tab title="Nginx Proxy Manager" %}
 Add a new proxy host with the following settings:
@@ -264,8 +258,7 @@ Then, create a symlink to `/etc/nginx/sites-enabled`:
 ```bash
 sudo ln -s /etc/nginx/sites-available/wizarr.example.com.conf /etc/nginx/sites-enabled/wizarr.example.com.conf
 ```
-{% endtab %}
-{% endtabs %}
+
 
 ## Traefik (v2) <p align="center"> <img src="https://www.suse.com/c/wp-content/uploads/2021/09/rancher_blog_traefik.logo_.png" height="125">
 
@@ -327,10 +320,7 @@ plex.example.com {
     reverse_proxy http://127.0.0.1:5055
 }
 ```
-
-
-{% endtab %}
-{% endtabs %}</p>
+</p>
 
 <h1><p align="center" class="heading-link" href="#-using-wizarr-1">💭 Using Wizarr</p></h1>
 
@@ -345,7 +335,6 @@ To Disable Wizarr's inbuilt authentication in order to put it behind a Proxy Pro
 
 In order to make the invitation process available for non signed in users, make sure you whitelist the following paths:
 
-{% tabs %}
 {% tab title="Authelia" %}
 ```
     - domain: wizarr.domain.com
@@ -365,8 +354,6 @@ In order to make the invitation process available for non signed in users, make 
 - '^/setup/*'
 - '^/static/'
 ```
-{% endtab %}
-{% endtabs %}
 </p>
 
 ### Discord
@@ -416,23 +403,19 @@ Now when a user is invited to your media server, they will be automatically adde
 
 Wizarr supports using either the standard Discord widget, or a custom widget utilizing the Discord API. The custom widget is enabled by default, and provides a more integrated look and feel, however if this is not desired you can toggle the standard widget on in Wizarr's settings.
 
-{% tabs %}
 {% tab title="Custom Widget" %}
 <figure><img src="../.gitbook/assets/custom-widget.png" alt=""><figcaption><p>Custom Discord Widget</p></figcaption></figure>
-{% endtab %}
+
 
 {% tab title="Standard Widget" %}
 <figure><img src="../.gitbook/assets/default-widget.png" alt=""><figcaption><p>Standard Discord Widget</p></figcaption></figure>
-{% endtab %}
-{% endtabs %}
 
-{% hint style="info" %}
+
 **Why not use an invitation link?**
 
 Enabling the widget and the invite channel makes the Discord API dynamically generate an invitation link for the purpose of the widget.
 
 This means that to use this integration, you don't need to generate a Never expiring invitation, which some users might want to avoid.
-{% endhint %}
 </p>
 
 # ⛑ Support
