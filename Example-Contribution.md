@@ -39,14 +39,8 @@
 <BR>
 
 <h3><p align="center">Table of Contents</p></h3>
-
-
 <h3><p align="center">💾 Getting-Started</p></h3>
-<a id="docker"></a>
-<h3><p align="center">[Installation]
-  <p align="center">
-
-[Docker](#docker-)
+<h3><p align="center">[Docker](#docker-)</p></h3>
 [unRAID](#unraid-)
 
 <h3><p align="center"><a class="heading-link" href="#-using-wizarr-1">💭 Using Wizarr</p></h3>
