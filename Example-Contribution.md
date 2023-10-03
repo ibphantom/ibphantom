@@ -156,7 +156,8 @@ docker run -d ...
 ```
 {% endtab %}
 {% endtabs %}
-<p align="center">
+
+
 align="center"><img src="https://craftassets.unraid.net/uploads/logos/unraid-stacked-dark.svg" height="100"></p>
 <a id="unraid"></a>
 
