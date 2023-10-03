@@ -67,9 +67,8 @@ Welcome to the Wizarr Documentation
 
 <h3><p align="center">* [Installation] *
   <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/GitHub_logo_2013.svg/2560px-GitHub_logo_2013.svg.png" height="200">
-<br>
-**Docker**</h3>
+<img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo.png" height="200">
+
 
 {% hint style="warning" %}
 Be sure to replace`/path/to/appdata/config` in the below examples with a valid host directory path. If this volume mount is not configured correctly, your Wizarr settings/data will not be persisted when the container is recreated (e.g., when updating the image or rebooting your machine).
