@@ -75,7 +75,7 @@
 <BR><BR>
 # 💾 Getting-Started
 
-### Docker <p align="center"><img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo.png" height="200"></p>
+### Docker <p align="center"><img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo.png" height="150"></p>
 
 {% hint style="warning" %}
 Be sure to replace`/path/to/appdata/config` in the below examples with a valid host directory path. If this volume mount is not configured correctly, your Wizarr settings/data will not be persisted when the container is recreated (e.g., when updating the image or rebooting your machine).
