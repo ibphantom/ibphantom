@@ -388,12 +388,83 @@ In order to make the invitation process available for non signed in users, make 
 {% endtab %}
 {% endtabs %}
 </p>
-<p align="center">* [Requests Integration](using-wizarr/requests-integration.md)</p>
-<p align="center">* [Discord Integration](using-wizarr/discord-integration.md)</p>
+<p align="center">* [Requests Integration]# Requests Integration
+
+### Setup
+
+Please use the ```ghcr.io/wizarrrr/wizarr:dev``` docker image to use these features.
+
+**Jellyseerr**
+
+1. Go to your Jellyseerr settings and copy the API key.
+2. Go to your Wizarr settings and select Jellyseerr from the dropdown.
+3. Input your Jellyseerr base URL.
+4. Input your Jellyseerr API key.
+
+**Overseerr**
+
+1. Go to your Overseerr settings and copy the API key.
+2. Go to your Wizarr settings and select Overseerr from the dropdown.
+3. Input your Overseerr base URL.
+4. Input your Overseerr API key.
+
+**Ombi**
+
+1. Go to your Ombi settings, then click "Configuration" and select "General" from the dropdown.
+2. Copy the API key from the "API Key" field.
+3. Go to your Wizarr settings and select Ombi from the dropdown.
+4. Input your Ombi base URL.
+5. Input your Ombi API key.
+
+### Usage
+
+Now when a user is invited to your media server, they will be automatically added to your request software. They will also be guided on how to request Movies and TV Shows. When a user expires or is deleted from Wizarr, they will also be removed from your request software.
+</p>
+<p align="center">* [Discord Integration]
+# Discord Integration
+
+#### Find your Discord Server ID
+
+1. In Discord, go to your **Server Settings**
+2. Select the **Widget** tab
+3. Enable Server Widget
+4. Choose an Invite Channel (`general` for example)
+5. Copy your **Server ID**
+
+#### Toggle the Discord Widget
+
+Wizarr supports using either the standard Discord widget, or a custom widget utilizing the Discord API. The custom widget is enabled by default, and provides a more integrated look and feel, however if this is not desired you can toggle the standard widget on in Wizarr's settings.
+
+{% tabs %}
+{% tab title="Custom Widget" %}
+<figure><img src="../.gitbook/assets/custom-widget.png" alt=""><figcaption><p>Custom Discord Widget</p></figcaption></figure>
+{% endtab %}
+
+{% tab title="Standard Widget" %}
+<figure><img src="../.gitbook/assets/default-widget.png" alt=""><figcaption><p>Standard Discord Widget</p></figcaption></figure>
+{% endtab %}
+{% endtabs %}
+
+{% hint style="info" %}
+**Why not use an invitation link?**
+
+Enabling the widget and the invite channel makes the Discord API dynamically generate an invitation link for the purpose of the widget.
+
+This means that to use this integration, you don't need to generate a Never expiring invitation, which some users might want to avoid.
+{% endhint %}
+</p>
 
 <h3><p align="center">⛑ Support</p></h3>
 
-<p align="center">[Discord](support/discord.md)</p>
+<p align="center">[Discord]
+---
+description: Join our discord server
+---
+
+# Discord
+
+{% embed url="https://discord.com/invite/wsSTsHGsqu" %}
+</p>
 
 <h3><p align="center">Contribute</p></h3>
 
