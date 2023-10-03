@@ -39,9 +39,9 @@
 <BR>
 
 <h3><p align="center">Table of Contents</p></h3>
-[Docker](#docker-)
-[unRAID](#unraid-)
-[NGINX](#nginx-)
+[Docker](#docker)
+[unRAID](#unraid)
+[NGINX](#nginx)
 
 
 <h3><p align="center"><a class="heading-link" href="#-using-wizarr-1">💭 Using Wizarr</p></h3>
