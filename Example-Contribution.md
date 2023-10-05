@@ -441,9 +441,6 @@ services:
     environment:
       - FORCE_LANGUAGE=en
 ```
-{% endtab %}
-
-{% tab title="Docker CLI" %}
 ```
 docker run -d \
   -e FORCE_LANGUAGE=en
