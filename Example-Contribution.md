@@ -411,10 +411,65 @@ Join our discord server
 
 <h3><p align="center">Contribute</p></h3>
 
-<p align="center"> [Translate](contribute/translate.md)</p>
-<p align="center"> [Development](contribute/development.md)</p>
+# Translate
+
+Thanks for your interest in contributing to Wizarr!
+
+### Weblate
+
+We use Weblate to help translate Wizarr!&#x20;
+
+{% embed url="https://hosted.weblate.org/engage/wizarr/" %}
+
 
 ## Translations
+
+### Testing Translations
+
+After you have saved a translation, it will be pushed to the `master` branch directly. The `dev` docker image will then be automatically compiled shortly thereafter.&#x20;
+
+To test it out, simply add the `dev` label to the Docker Image, and you can use the `FORCE_LANGUAGE` environment variable to force a language to Wizarr.
+
+```yaml
+---
+version: "3.8"
+services:
+  wizarr:
+    container_name: wizarr
+    image: ghcr.io/wizarrrr/wizarr:dev
+    [...]
+    environment:
+      - FORCE_LANGUAGE=en
+```
+{% endtab %}
+
+{% tab title="Docker CLI" %}
+```
+docker run -d \
+  -e FORCE_LANGUAGE=en
+  [...]
+  ghcr.io/wizarrrr/wizarr:dev
+```
+
+## Development
+
+If you want to contribute to Wizarr, here is how
+
+### Prerequisites
+
+* Python3.11+
+
+### Development Environment
+
+1. Clone the repository with `git clone git@github.com:Wizarrrr/wizarr.git`
+2. Move into the directory `cd wizarr`
+3. (Optional but recommended) Create a python virtual environment with `python -m venv venv`
+4. Enter the python venv with `source venv/bin/activate`
+5. Install dependencies with `pip install -r requirements.txt`
+6. Start Wizarr with `flask run`
+7. Wizarr is now accessible at http://127.0.0.1:5000
+
+
 
 We use Weblate to translate Wizarr, help us out by clicking [here](https://hosted.weblate.org/engage/wizarr/)
 
