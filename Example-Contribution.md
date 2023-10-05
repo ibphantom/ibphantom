@@ -39,7 +39,7 @@
 <BR>
 
 <h3><p align="center">Table of Contents</p></h3>
-[Docker](https://github.com/ibphantom/ibphantom/blob/main/Example-Contribution.md#discord))
+[Docker][https://github.com/ibphantom/ibphantom/blob/main/Example-Contribution.md#discord]
 <BR><BR>
 [unRAID](#unraid-)
 <BR>
