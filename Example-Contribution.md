@@ -311,9 +311,11 @@ plex.example.com {
 
 <h1><p align="center" class="heading-link" href="#-using-wizarr-1">💭 Using Wizarr</p></h1>
 # SSO
-#### **Wizarr supports SSO via disabling its inbuilt authentication**
+------
 <p align="center"><img src="https://www.mindcentric.com/hubfs/SingleSignOn.png" height="100"></p>
 
+
+#### **Wizarr supports SSO via disabling its inbuilt authentication**
 To Disable Wizarr's inbuilt authentication in order to put it behind a Proxy Provider (Authelia, Authentik...), set the following variable:
 
 `DISABLE_BUILTIN_AUTH=True`
