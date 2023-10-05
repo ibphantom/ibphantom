@@ -70,7 +70,7 @@
 * Customizable: Add any Custom HTML
 
 <BR><BR>
-# 💾 Getting-Started
+#💾 Getting-Started
 
 ## Docker <p align="center"><img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo.png" height="150"></p>
 
@@ -343,7 +343,7 @@ In order to make the invitation process available for non signed in users, make 
 ```
 </p>
 
-### Discord
+## Discord
 <p align="center"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b5061df29d55a92d945_full_logo_blurple_RGB.svg" height="75"></p>
 <h3><p align="center">Discord Integration</p></h3>
 
