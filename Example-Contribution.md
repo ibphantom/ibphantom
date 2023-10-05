@@ -417,9 +417,9 @@ Thanks for your interest in contributing to Wizarr!
 
 ### Weblate
 
-We use Weblate to help translate Wizarr!&#x20;
+We use Weblate to help translate Wizarr!
 
-{% embed url="https://hosted.weblate.org/engage/wizarr/" %}
+https://hosted.weblate.org/engage/wizarr/
 
 
 ## Translations
