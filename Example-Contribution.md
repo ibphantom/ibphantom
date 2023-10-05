@@ -251,7 +251,7 @@ Then, create a symlink to `/etc/nginx/sites-enabled`:
 sudo ln -s /etc/nginx/sites-available/wizarr.example.com.conf /etc/nginx/sites-enabled/wizarr.example.com.conf
 ```
 
-
+<BR><BR>
 ## Traefik (v2) <p align="center"> <img src="https://www.suse.com/c/wp-content/uploads/2021/09/rancher_blog_traefik.logo_.png" height="125">
 
 Add the following labels to the wizarr service in your `docker-compose.yml` file:
