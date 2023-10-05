@@ -270,6 +270,8 @@ labels:
 
 For more information, please refer to the [Traefik documentation](https://doc.traefik.io/traefik/user-guides/docker-compose/basic-example/).
 
+
+<BR><BR>
 ## Caddy <p align="center"><img src="https://dqah5woojdp50.cloudfront.net/original/2X/5/5f2c1a30bf4aeec78ece52d64426ec606d9fee7d.png" height="75"></p>
 
 Add the following site block to your Caddyfile:
@@ -309,6 +311,7 @@ plex.example.com {
 ```
 </p>
 
+<BR><BR>
 <h1><p align="center" class="heading-link" href="#-using-wizarr-1">💭 Using Wizarr</p></h1>
 
 ## SSO
