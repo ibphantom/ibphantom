@@ -43,7 +43,7 @@
 <BR><BR>
 <h3><p align="center"><a class="heading-link" href="#-support">Docker</p></h3>
 <BR>
-<h3><p align="center"><a class="heading-link" href="#unraid-">unRAID</p></h3>
+<h3><p align="center"><a class="heading-link" href="#unraid-"><img src="https://craftassets.unraid.net/uploads/logos/unraid-stacked-dark.svg" height="25">unRAID</p></h3>
 <BR>
 <h3><p align="center"><a class="heading-link" href="#-support">⛑ Support</p></h3>
 <BR>
