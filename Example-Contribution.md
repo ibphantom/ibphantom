@@ -413,6 +413,51 @@ This means that to use this integration, you don't need to generate a Never expi
 <BR>
 # Translate
 
+# Translate
+
+TRANSLATIONS CURRENTLY NOT BEING ACCEPTED
+
+Thanks for your interest in contributing to Wizarr!
+
+### Weblate
+
+We use Weblate to help translate Wizarr!
+
+{% embed url="https://hosted.weblate.org/engage/wizarr/" %}
+
+### Testing Translations
+
+After you have saved a translation, it will be pushed to the `master` branch directly. The `dev` docker image will then be automatically compiled shortly thereafter.
+
+To test it out, simply add the `dev` label to the Docker Image, and you can use the `FORCE_LANGUAGE` environment variable to force a language to Wizarr.
+
+```yaml
+---
+version: "3.8"
+services:
+  wizarr:
+    container_name: wizarr
+    image: ghcr.io/wizarrrr/wizarr:dev
+    [...]
+    environment:
+      - FORCE_LANGUAGE=en
+```
+```
+docker run -d \
+  -e FORCE_LANGUAGE=en
+  [...]
+  ghcr.io/wizarrrr/wizarr:dev
+```
+
+
+
+
+
+
+
+
+
+<BR><BR><BR>
 Thanks for your interest in contributing to Wizarr!
 
 ### Weblate
