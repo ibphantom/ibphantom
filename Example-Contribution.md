@@ -345,7 +345,7 @@ In order to make the invitation process available for non signed in users, make 
 </p>
 
 ## Discord
-<p align="center"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b5061df29d55a92d945_full_logo_blurple_RGB.svg" height="75"></p>
+<p align="center"><img src="/frontend/src/assets/img/discord.svg" height="75"></p>
 <h3><p align="center">Discord Integration</p></h3>
 
 Please use the ```ghcr.io/wizarrrr/wizarr:dev``` docker image to use these features.
@@ -401,9 +401,11 @@ Enabling the widget and the invite channel makes the Discord API dynamically gen
 This means that to use this integration, you don't need to generate a Never expiring invitation, which some users might want to avoid.
 </p>
 
-<center> # ⛑ Support </center>
-Join our discord server
-<p align="center">https://discord.com/invite/wsSTsHGsqu</p>
+# ⛑ Support
+<p align="center">Join our discord server
+<p align="center"><img src="/frontend/src/assets/img/discord.svg" height="75"></p>
+https://discord.com/invite/wsSTsHGsqu</p>
+
 
 <h3><p align="center">Contribute</p></h3>
 
