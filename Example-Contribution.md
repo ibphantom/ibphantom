@@ -434,7 +434,7 @@ Thanks for your interest in contributing to Wizarr!</p>
 
 <BR><BR>
 ### Weblate
-<p align="center"><p align="center"><a class="heading-link" href="https://discord.com/invite/wsSTsHGsqu"><img src="/frontend/src/assets/img/weblate.png" height="75"></a></p>
+<p align="center"><p align="center"><a class="heading-link" href="https://discord.com/invite/wsSTsHGsqu"><img src="/frontend/src/assets/img/weblate.png" height="125"></a></p>
 <p align="center"><p align="center"><a class="heading-link" href="https://hosted.weblate.org/engage/wizarr/"> We use Weblate to help translate Wizarr!</a></p>
 
 ### Testing Translations
