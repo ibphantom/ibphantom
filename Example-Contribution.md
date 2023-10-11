@@ -50,7 +50,7 @@
 <h3><p align="center"><a class="heading-link" href="#traefik-v2--"><img src="/frontend/src/assets/img/traefik.png" height="35"> <BR>Traefik-v2--</p></h3>
 <h3><p align="center"><a class="heading-link" href="#-support">⛑<BR> Support</p></h3>
 <h3><p align="center"><a class="heading-link" href="#-using-wizarr-1">💭 Using Wizarr</p></h3>
-<h3><p align="center"><a class="heading-link" href="#SSO"><img src="/frontend/src/assets/img/sso.png" height="35"> <BR>SSO</p></h3>
+<h3><p align="center"><a class="heading-link" href="#SSO"><img src="/frontend/src/assets/img/sso.png" height="55"> <BR>SSO</p></h3>
 <h3><p align="center"><a class="heading-link" href="#discord"><img src="/frontend/src/assets/img/discord.svg" height="35"> <BR>Discord</p></h3>
 
 # Introduction
