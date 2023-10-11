@@ -42,7 +42,7 @@
 <h3><p align="center"><a class="heading-link" href="#introduction"><img src="/frontend/src/assets/img/Intro.png" height="100"> <BR>Introduction</p></h3>
     <h2><p align="center"><a class="heading-link" href="#features"><img src="/frontend/src/assets/img/features.png" height="55"> <BR>Features</p></h2>
 <BR><BR>
-        <h1><p align="center"><a class="heading-link" href="#-getting-started">💾 Getting Started</p></h1>
+        <h1><p align="center"><a class="heading-link" href="#-getting-started-1">💾 Getting Started</p></h1>
 <h3><p align="center"><a class="heading-link" href="#docker"><img src="/frontend/src/assets/img/docker.png" height="55"> <BR>Docker</p></h2>
 <h3><p align="center"><a class="heading-link" href="#unraid-"><img src="/frontend/src/assets/img/unRAID.svg" height="35"> <BR>unRAID</p></h3>
 <h3><p align="center"><a class="heading-link" href="#reverse-proxy">🔀<BR> Reverse Proxy</p></h3>
@@ -272,7 +272,7 @@ For more information, please refer to the [Traefik documentation](https://doc.tr
 
 
 <BR><BR>
-## Caddy <p align="center"><img src="https://dqah5woojdp50.cloudfront.net/original/2X/5/5f2c1a30bf4aeec78ece52d64426ec606d9fee7d.png" height="75"></p>
+## Caddy <p align="center"><img src="/frontend/src/assets/caddy.png" height="75"></p>
 
 Add the following site block to your Caddyfile:
 
