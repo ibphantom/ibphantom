@@ -43,8 +43,8 @@
     <h2><p align="center"><a class="heading-link" href="#features"><img src="/img/features.png" height="55"> <BR>Features</p></h2>
 <BR><BR><BR>
         <h2><p align="center"><a class="heading-link" href="#-getting-started">💾 Getting Started</p></h2>
-<h3><p align="center"><a class="heading-link" href="#docker"><img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo.png" height="55"> <BR>Docker</p></h2>
-<h3><p align="center"><a class="heading-link" href="#unraid-"><img src="https://craftassets.unraid.net/uploads/logos/unraid-stacked-dark.svg" height="35"> <BR>unRAID</p></h3>
+<h3><p align="center"><a class="heading-link" href="#docker"><img src="/frontend/src/assets/img/docker.png" height="55"> <BR>Docker</p></h2>
+<h3><p align="center"><a class="heading-link" href="#unraid-"><img src="/frontend/src/assets/img/unRAID.svg" height="35"> <BR>unRAID</p></h3>
 <h3><p align="center"><a class="heading-link" href="#reverse-proxy">🔀<BR> Reverse Proxy</p></h3>
 <h3><p align="center"><a class="heading-link" href="#nginx"><img src="/frontend/src/assets/img/nginx.svg" height="35"> <BR>NGINX</p></h3>
 <h3><p align="center"><a class="heading-link" href="#traefik-v2--"><img src="/frontend/src/assets/img/traefik.png" height="35"> <BR>Traefik-v2--</p></h3>
