@@ -449,50 +449,7 @@ docker run -d \
   ghcr.io/wizarrrr/wizarr:dev
 ```
 
-
-
-
-
-
-
-
-
 <BR><BR><BR>
-Thanks for your interest in contributing to Wizarr!
-
-### Weblate
-
-We use Weblate to help translate Wizarr!
-
-https://hosted.weblate.org/engage/wizarr/
-
-
-## Translations
-
-### Testing Translations
-
-After you have saved a translation, it will be pushed to the `master` branch directly. The `dev` docker image will then be automatically compiled shortly thereafter.&#x20;
-
-To test it out, simply add the `dev` label to the Docker Image, and you can use the `FORCE_LANGUAGE` environment variable to force a language to Wizarr.
-
-```yaml
----
-version: "3.8"
-services:
-  wizarr:
-    container_name: wizarr
-    image: ghcr.io/wizarrrr/wizarr:dev
-    [...]
-    environment:
-      - FORCE_LANGUAGE=en
-```
-```
-docker run -d \
-  -e FORCE_LANGUAGE=en
-  [...]
-  ghcr.io/wizarrrr/wizarr:dev
-```
-
 ## Development
 
 If you want to contribute to Wizarr, here is how
