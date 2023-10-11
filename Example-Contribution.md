@@ -46,7 +46,7 @@
 <h3><p align="center"><a class="heading-link" href="#docker"><img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo.png" height="55"> <BR>Docker</p></h2>
 <h3><p align="center"><a class="heading-link" href="#unraid-"><img src="https://craftassets.unraid.net/uploads/logos/unraid-stacked-dark.svg" height="35"> <BR>unRAID</p></h3>
 <h3><p align="center"><a class="heading-link" href="#reverse-proxy">🔀<BR> Reverse Proxy</p></h3>
-<h3><p align="center"><a class="heading-link" href="#nginx"><img src="/img/nginx.png" height="35"> <BR>unRAID</p></h3>
+<h3><p align="center"><a class="heading-link" href="#nginx"><img src="/img/nginx.svg" height="35"> <BR>unRAID</p></h3>
 <h3><p align="center"><a class="heading-link" href="#-support">⛑<BR> Support</p></h3>
 <h3><p align="center"><a class="heading-link" href="#-using-wizarr-1">💭 Using Wizarr</p></h3>
 
