@@ -46,10 +46,10 @@
 <BR><BR>
         <h1><p align="center"><a class="heading-link" href="#-getting-started-1">💾 Getting Started</p></h1>
 <h3><p align="center"><a class="heading-link" href="#docker"><img src="/frontend/src/assets/img/docker.png" height="55"> <BR>Docker</p></h2>
-<h3><p align="center"><a class="heading-link" href="#unraid-"><img src="/frontend/src/assets/img/unRAID.svg" height="35"> <BR>unRAID</p></h3>
+<h3><p align="center"><a class="heading-link" href="#unraid-"><img src="/frontend/src/assets/img/unRAID.svg" height="40"> <BR>unRAID</p></h3>
 <h3><p align="center"><a class="heading-link" href="#reverse-proxy">🔀<BR> Reverse Proxy</p></h3>
 <h3><p align="center"><a class="heading-link" href="#nginx"><img src="/frontend/src/assets/img/nginx.svg" height="35"> <BR>NGINX</p></h3>
-<h3><p align="center"><a class="heading-link" href="#traefik-v2--"><img src="/frontend/src/assets/img/traefik.png" height="35"> <BR>Traefik-v2--</p></h3>
+<h3><p align="center"><a class="heading-link" href="#traefik-v2--"><img src="/frontend/src/assets/img/traefik.png" height="45"> <BR>Traefik-v2--</p></h3>
 <h3><p align="center"><a class="heading-link" href="#caddy-"><img src="/frontend/src/assets/img/caddy.png" height="35"> <BR>Caddy</p></h3>
 <BR><BR>
 <h1><p align="center"><a class="heading-link" href="#-using-wizarr-1">💭 Using Wizarr</p></h1>
