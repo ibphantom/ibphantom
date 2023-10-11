@@ -41,7 +41,7 @@
 ---
 
 <h1><p align="center">Table of Contents</p></h1>
-<h3><p align="center"><a class="heading-link" href="#introduction"><BR>Introduction</p></h3>
+<h1><p align="center"><a class="heading-link" href="#introduction"><BR>Introduction</p></h1>
     <h2><p align="center"><a class="heading-link" href="#features"><BR>Features</p></h2>
 <BR><BR>
         
