@@ -404,8 +404,8 @@ This means that to use this integration, you don't need to generate a Never expi
 # ⛑ Support
 
 <p align="center">Join our discord server
-<p align="center"><img src="/frontend/src/assets/img/discord.svg" height="75"></p>
-https://discord.com/invite/wsSTsHGsqu</p>
+<p align="center"><p align="center"><a class="heading-link" href="https://discord.com/invite/wsSTsHGsqu"><img src="/frontend/src/assets/img/discord.svg" height="75"></p>
+<p align="center">https://discord.com/invite/wsSTsHGsqu</p>
 
 
 <h3><p align="center">Contribute</p></h3>
