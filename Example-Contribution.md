@@ -41,11 +41,11 @@
 <h3><p align="center">Table of Contents</p></h3>
 [Docker][https://github.com/ibphantom/ibphantom/blob/main/Example-Contribution.md#discord]
 <BR><BR>
-[unRAID](#unraid-)
+<h3><p align="center"><a class="heading-link" href="#-support">⛑ Support</p></h3>
 <BR>
-[NGINX](#nginx)
+<h3><p align="center"><a class="heading-link" href="#-support">⛑ Support</p></h3>
 <BR>
-<h3><p align="center"><a class="heading-link" href="#-support">💭 Using Wizarr</p></h3>
+<h3><p align="center"><a class="heading-link" href="#-support">⛑ Support</p></h3>
 <BR>
 [Support](https://github.com/ibphantom/ibphantom/blob/main/Example-Contribution.md#-support)
 
@@ -72,7 +72,7 @@
 <BR><BR>
 <h2><p align="center">💾 Getting-Started</p><h/2>
 
-## Docker <p align="center"><img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo.png" height="150"></p>
+## Docker <p align="center"><img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo.png" height="150"></p> ##
 
 Be sure to replace`/path/to/appdata/config` in the below examples with a valid host directory path. If this volume mount is not configured correctly, your Wizarr settings/data will not be persisted when the container is recreated (e.g., when updating the image or rebooting your machine).
 
