@@ -3,6 +3,7 @@
 <h3 align="center">The Free Media Invitation System</h3>
 
 ---
+**_NOTE:_** Main Wizard Logo with small quicklinks
 
 <p align="center">
 <img src="/frontend/src/assets/img/wizard.png" height="200">
@@ -36,9 +37,10 @@
 <img alt="Github Build" src="https://img.shields.io/github/actions/workflow/status/wizarrrr/wizarr/docker-build.yml"/>
 </a>
 </p>
-
 <BR>
 
+
+**_NOTE:_** Table of Contents
 <h2><p align="center">Table of Contents</p></h2>
 <h3><p align="center"><a class="heading-link" href="#introduction"><img src="/frontend/src/assets/img/Intro.png" height="100"> <BR>Introduction</p></h3>
     <h2><p align="center"><a class="heading-link" href="#features"><img src="/frontend/src/assets/img/features.png" height="55"> <BR>Features</p></h2>
@@ -74,6 +76,10 @@
 * Discord Server Integration: Invite users to your Discord Server
 * Customizable: Add any Custom HTML
 
+
+
+
+**_NOTE:_** Getting Started
 <BR><BR>
 <h2><p align="center">💾 Getting-Started</p></h2>
 
@@ -164,6 +170,8 @@ docker run -d ...
 
 
 
+
+**_NOTE:_** Reverse Proxies
 <BR><BR><BR>
 # Reverse Proxy
 
@@ -401,6 +409,11 @@ Enabling the widget and the invite channel makes the Discord API dynamically gen
 
 This means that to use this integration, you don't need to generate a Never expiring invitation, which some users might want to avoid.
 </p>
+
+
+
+<BR><BR><BR>
+**_NOTE:_** Support
 
 # ⛑ Support
 
