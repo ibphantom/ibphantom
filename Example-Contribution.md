@@ -401,7 +401,7 @@ Enabling the widget and the invite channel makes the Discord API dynamically gen
 This means that to use this integration, you don't need to generate a Never expiring invitation, which some users might want to avoid.
 </p>
 
-# ⛑ Support
+<center> # ⛑ Support </center>
 Join our discord server
 <p align="center">https://discord.com/invite/wsSTsHGsqu</p>
 
