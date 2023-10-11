@@ -402,6 +402,7 @@ This means that to use this integration, you don't need to generate a Never expi
 </p>
 
 # ⛑ Support
+
 <p align="center">Join our discord server
 <p align="center"><img src="/frontend/src/assets/img/discord.svg" height="75"></p>
 https://discord.com/invite/wsSTsHGsqu</p>
