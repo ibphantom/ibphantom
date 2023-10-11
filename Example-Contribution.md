@@ -84,7 +84,7 @@
 <h2><p align="center">💾 Getting-Started</p></h2>
 
 ## Docker
-<p align="center"><img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo.png" height="150"></p>
+<p align="center"><img src="/frontend/src/assets/img/docker.png" height="150"></p>
 
 Be sure to replace`/path/to/appdata/config` in the below examples with a valid host directory path. If this volume mount is not configured correctly, your Wizarr settings/data will not be persisted when the container is recreated (e.g., when updating the image or rebooting your machine).
 
@@ -178,7 +178,7 @@ docker run -d ...
 
 ## Nginx
 ---
-<p align="center"><img src="https://www.svgrepo.com/show/373924/nginx.svg" height="100"></p>
+<p align="center"><img src="/frontend/src/assets/img/nginx.svg" height="100"></p>
 
 Create a new file `wizarr.subdomain.conf` in `proxy-confs` with the following configuration:
 
@@ -326,7 +326,7 @@ plex.example.com {
 <h1><p align="center" class="heading-link" href="#-using-wizarr-1">💭 Using Wizarr</p></h1>
 
 ## SSO
-<p align="center"><img src="https://www.mindcentric.com/hubfs/SingleSignOn.png" height="100"></p>
+<p align="center"><img src="/frontend/src/assets/img/sso.png" height="100"></p>
 
 
 <p align="center"> **Wizarr supports SSO via disabling its inbuilt authentication**</p>
@@ -434,7 +434,7 @@ Thanks for your interest in contributing to Wizarr!</p>
 
 <BR><BR>
 ### Weblate
-
+<p align="center"><p align="center"><a class="heading-link" href="https://discord.com/invite/wsSTsHGsqu"><img src="/frontend/src/assets/img/weblate.png" height="75"></a></p>
 <p align="center"><p align="center"><a class="heading-link" href="https://hosted.weblate.org/engage/wizarr/"> We use Weblate to help translate Wizarr!</a></p>
 
 ### Testing Translations
