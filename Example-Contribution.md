@@ -273,7 +273,7 @@ For more information, please refer to the [Traefik documentation](https://doc.tr
 
 
 <BR><BR>
-## Caddy <p align="center"><img src="/frontend/src/assets/caddy.png" height="75"></p>
+## Caddy <p align="center"> <img src="/frontend/src/assets/img/caddy.png" height="35"> </p>
 
 Add the following site block to your Caddyfile:
 
