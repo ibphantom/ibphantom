@@ -40,13 +40,9 @@
 
 <h3><p align="center">Table of Contents</p></h3>
 <h3><p align="center"><a class="heading-link" href="#introduction">Introduction</p></h3>
-<BR><BR>
 <h3><p align="center"><a class="heading-link" href="#-support">Docker</p></h3>
-<BR>
 <h3><p align="center"><a class="heading-link" href="#unraid-"><img src="https://craftassets.unraid.net/uploads/logos/unraid-stacked-dark.svg" height="25"> <BR>unRAID<B/R></p></h3>
-<BR>
 <h3><p align="center"><a class="heading-link" href="#-support">⛑<BR> Support</p></h3>
-<BR>
 <h3><p align="center"><a class="heading-link" href="#-using-wizarr-1">💭 Using Wizarr</p></h3>
 
 # Introduction
