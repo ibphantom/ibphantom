@@ -39,7 +39,7 @@
 <BR>
 
 <h2><p align="center">Table of Contents</p></h2>
-<h3><p align="center"><a class="heading-link" href="#introduction"><img src="/frontend/src/assets/img/intro.png" height="55"> <BR>Introduction</p></h3>
+<h3><p align="center"><a class="heading-link" href="#introduction"><img src="/frontend/src/assets/img/Intro.png" height="55"> <BR>Introduction</p></h3>
     <h2><p align="center"><a class="heading-link" href="#features"><img src="/frontend/src/assets/img/features.png" height="55"> <BR>Features</p></h2>
 <BR><BR><BR>
         <h2><p align="center"><a class="heading-link" href="#-getting-started">💾 Getting Started</p></h2>
