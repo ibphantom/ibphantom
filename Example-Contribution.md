@@ -45,7 +45,7 @@
 <BR>
 [NGINX](#nginx)
 <BR>
-[Support](#support)
+<h3><p align="center"><a class="heading-link" href="#-support">💭 Using Wizarr</p></h3>
 <BR>
 [Support](https://github.com/ibphantom/ibphantom/blob/main/Example-Contribution.md#-support)
 
