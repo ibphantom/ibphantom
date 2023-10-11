@@ -70,7 +70,7 @@
 * Customizable: Add any Custom HTML
 
 <BR><BR>
-<p align="center">💾 Getting-Started</p>
+<h2><p align="center">💾 Getting-Started</p><h/2>
 
 ## Docker <p align="center"><img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo.png" height="150"></p>
 
