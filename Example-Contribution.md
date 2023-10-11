@@ -411,7 +411,6 @@ This means that to use this integration, you don't need to generate a Never expi
 <h3><p align="center">Contribute</p></h3>
 
 <BR>
-# Translate
 
 # Translate
 
@@ -419,11 +418,10 @@ TRANSLATIONS CURRENTLY NOT BEING ACCEPTED
 
 Thanks for your interest in contributing to Wizarr!
 
+<BR><BR>
 ### Weblate
 
-We use Weblate to help translate Wizarr!
-
-{% embed url="https://hosted.weblate.org/engage/wizarr/" %}
+<p align="center"><p align="center"><a class="heading-link" href="https://hosted.weblate.org/engage/wizarr/"> We use Weblate to help translate Wizarr!</a></p>
 
 ### Testing Translations
 
