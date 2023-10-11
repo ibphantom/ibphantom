@@ -44,9 +44,10 @@
 <h3><p align="center"><a class="heading-link" href="#introduction"><BR>Introduction</p></h3>
     <h2><p align="center"><a class="heading-link" href="#features"><BR>Features</p></h2>
 <BR><BR>
-
+        
 ---
-        <h1><p align="center"><a class="heading-link" href="#-getting-started-1">💾 Getting Started</p></h1>
+
+<h1><p align="center"><a class="heading-link" href="#-getting-started-1">💾 Getting Started</p></h1>
 <h3><p align="center"><a class="heading-link" href="#docker"><img src="/frontend/src/assets/img/docker.png" height="55"> <BR>Docker</p></h2>
 <h3><p align="center"><a class="heading-link" href="#unraid-"><img src="/frontend/src/assets/img/unRAID.svg" height="40"> <BR>unRAID</p></h3>
 <h3><p align="center"><a class="heading-link" href="#reverse-proxy">🔀<BR> Reverse Proxy</p></h3>
