@@ -78,9 +78,6 @@ Be sure to replace`/path/to/appdata/config` in the below examples with a valid h
 
 The `TZ` environment variable value should also be set to the [TZ database name](https://en.wikipedia.org/wiki/List\_of\_tz\_database\_time\_zones) of your time zone!
 
-{% tab title="Docker Compose (recommended)" %}
-
-
 Define the `wizarr` service in your `docker-compose.yml` as follows:
 
 ```yaml
@@ -115,7 +112,6 @@ Then, restart all services defined in the Compose file:
 
 `docker compose up -d` or `docker-compose up -d`
 
-{% tab title="Docker CLI" %}
 **Installation**
 
 <pre class="language-docker"><code class="lang-docker"><strong>docker run -d \
@@ -326,8 +322,6 @@ To Disable Wizarr's inbuilt authentication in order to put it behind a Proxy Pro
 #### Whitelist Public Paths (important!)
 
 In order to make the invitation process available for non signed in users, make sure you whitelist the following paths:
-
-{% tab title="Authelia" %}
 ```
     - domain: wizarr.domain.com
       resources:
@@ -337,9 +331,6 @@ In order to make the invitation process available for non signed in users, make 
         - '^/static/'
       policy: bypass
 ```
-{% endtab %}
-
-{% tab title="Authentik/Other" %}
 ```
 - '^/j/'
 - '^/join/'
