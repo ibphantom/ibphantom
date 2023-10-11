@@ -41,7 +41,7 @@
 <h2><p align="center">Table of Contents</p></h2>
 <h3><p align="center"><a class="heading-link" href="#introduction"><img src="/frontend/src/assets/img/Intro.png" height="100"> <BR>Introduction</p></h3>
     <h2><p align="center"><a class="heading-link" href="#features"><img src="/frontend/src/assets/img/features.png" height="55"> <BR>Features</p></h2>
-<BR><BR><BR>
+<BR><BR>
         <h1><p align="center"><a class="heading-link" href="#-getting-started">💾 Getting Started</p></h1>
 <h3><p align="center"><a class="heading-link" href="#docker"><img src="/frontend/src/assets/img/docker.png" height="55"> <BR>Docker</p></h2>
 <h3><p align="center"><a class="heading-link" href="#unraid-"><img src="/frontend/src/assets/img/unRAID.svg" height="35"> <BR>unRAID</p></h3>
